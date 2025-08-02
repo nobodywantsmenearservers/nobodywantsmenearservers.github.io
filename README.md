@@ -1,4 +1,4 @@
-Idk What I'm doing Github told me to make a paragraph or to so here I try to do that.
+Idk What I'm doing Github told me to make a paragraph or two so here I try to do that.
 
 _What is it_
 So I created this repo to make a website for my portfolio and like my resume and stuff. 
